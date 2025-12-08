@@ -24,7 +24,7 @@ brotli~=1.0
 requests[socks]
 requests-file
 
-urllib3==1.26.19
+urllib3==2.6.0
 chardet>2.3.0
 
 wtforms~=3.0
